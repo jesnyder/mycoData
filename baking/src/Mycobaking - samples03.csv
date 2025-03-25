@@ -1,0 +1,393 @@
+sample number,sample code,strain,substrate,wet weight,dry weight,strain abbr,substrate abbr,,strain substrate
+1,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3.8,1.9,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+2,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.1,2.4,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+3,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.3,2.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+4,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.7,2.3,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+5,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3,1.5,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+6,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.1,2.4,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+7,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.6,2.7,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+8,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.6,2.2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+9,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.7,2.2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+10,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3.9,1.9,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+11,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.1,2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+12,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.4,2.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+13,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.6,2.2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+14,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3.4,1.6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+15,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.7,2.2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+16,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3.9,1.9,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+17,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,3.1,1.5,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+18,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.3,2.5,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+19,GL_w,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,4.9,2.4,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+1,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.6,6.3,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+2,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.5,6.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+3,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.7,6.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+4,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.5,6.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+5,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.4,6.2,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+6,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.1,6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+7,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6,5.5,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+8,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.8,6.6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+9,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.1,6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+10,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.2,6.1,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+11,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.2,5.9,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+12,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,7.1,6.7,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+13,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6,5.7,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+14,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.7,5.6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+15,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.5,6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+16,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,7.4,6.8,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+17,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,5.7,5.6,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+18,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6,5.7,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+19,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.2,5.8,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+20,GL_w_2,Ganoderma lucidum,hardwood pellets wheat calcium sulfate,6.3,5.9,G. lucidum,Wood Pellet + CaSO4 + Wheat, | ,G. lucidum | Wood Pellet + CaSO4 + Wheat
+1,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,4.3,2,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+2,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,3.7,1.8,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+3,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.4,2.5,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+4,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,4.9,2.3,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+5,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.8,2.6,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+6,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,2.9,1.4,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+7,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.2,2.8,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+8,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.6,2.5,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+9,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,4.9,2.2,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+10,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.2,2.8,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+11,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,4.5,2.1,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+12,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.7,3,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+13,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.5,3,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+14,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.8,3.1,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+15,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.6,2.9,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+16,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.5,2.9,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+17,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.7,3,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+18,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.6,2.5,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+19,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.7,3,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+20,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.3,2.4,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+21,E_w,Ganoderma spp.,hardwood pellets wheat calcium sulfate,5.2,2.4,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+1,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.6,6.4,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+2,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.8,6.5,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+3,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.2,5.9,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+4,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,7.2,6.9,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+5,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.9,6.6,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+6,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.4,6.2,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+7,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,7.4,7.1,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+8,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.6,6.4,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+9,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.6,6.2,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+10,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,7.5,7.2,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+11,E_w_2,Ganoderma spp.,hardwood pellets wheat calcium sulfate,6.8,6.5,Ganoderma spp.,Wood Pellet + CaSO4 + Wheat, | ,Ganoderma spp. | Wood Pellet + CaSO4 + Wheat
+1,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.8,2.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+2,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.6,3.1,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+3,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.2,2.8,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+4,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.9,2.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+5,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.5,2.6,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+6,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.1,2.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+7,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,7.1,3.2,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+8,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6,2.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+9,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.1,2.8,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+10,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.6,2.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+11,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.5,2.4,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+12,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,3.7,1.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+13,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.8,3,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+14,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.8,2.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+15,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.6,2.6,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+16,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,4.8,2.1,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+17,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.5,2.4,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+18,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,7.3,3.3,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+19,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,3.7,1.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+20,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,3.2,1.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+21,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,4.9,1.8,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+22,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.1,2.3,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+23,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.3,2.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+24,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.9,3.2,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+25,O_w,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6,2.8,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+1,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.6,5.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+2,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.6,5.4,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+3,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.2,6,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+4,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.2,6,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+5,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.7,5.6,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+6,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.6,6.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+7,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.6,6.5,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+8,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.6,5.4,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+9,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.1,4.9,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+10,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,6.1,5.9,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+11,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,4.8,4.7,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+12,O_w_2,Pleurotus ostreatus,hardwood pellets wheat calcium sulfate,5.5,5.4,P. ostreatus,Wood Pellet + CaSO4 + Wheat, | ,P. ostreatus | Wood Pellet + CaSO4 + Wheat
+1,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,5.7,2.8,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+2,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,5.7,2.6,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+3,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.4,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+4,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.5,3.5,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+5,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.1,3.4,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+6,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.4,3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+7,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.6,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+8,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.1,3.3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+9,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.1,3.4,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+10,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.1,2.9,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+11,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.9,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+12,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.9,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+13,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.8,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+14,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.7,3.4,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+15,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.6,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+16,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.4,3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+17,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.6,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+18,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.1,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+19,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.3,4.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+20,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.4,3.7,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+21,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.9,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+22,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.8,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+23,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.2,2.8,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+24,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.2,3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+25,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.8,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+26,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7,3.2,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+27,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.2,2.8,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+28,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.4,2.9,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+29,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.6,3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+30,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.4,3.3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+31,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.5,2.9,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+32,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.6,2.9,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+33,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.8,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+34,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.2,2.8,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+35,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.9,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+36,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.8,3.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+37,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,6.4,2.9,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+38,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,7.3,3.3,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+39,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,4.5,2.1,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+40,GL_f,Ganoderma lucidum,hardwood pellets flax calcium sulfate,3.3,1.5,G. lucidum,Wood Pellets + CaSO4 + Flax, | ,G. lucidum | Wood Pellets + CaSO4 + Flax
+1,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.2,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+2,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8,3.7,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+3,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.3,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+4,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,6.9,3.3,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+5,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.5,3.6,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+6,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.1,3.4,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+7,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.9,3.7,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+8,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.3,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+9,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.9,3.8,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+10,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.3,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+11,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.3,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+12,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.1,3.8,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+13,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.3,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+14,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.8,3.8,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+15,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.2,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+16,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.2,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+17,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8,3.7,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+18,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.2,3.8,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+19,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.3,3.4,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+20,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.4,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+21,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.3,3.4,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+22,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8,3.7,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+23,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.4,3.4,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+24,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.7,3.6,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+25,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.4,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+26,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.4,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+27,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.6,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+28,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.2,3.7,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+29,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.9,3.6,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+30,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,9.2,4.2,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+31,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7,3.3,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+32,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,6.9,3.3,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+33,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.6,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+34,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,9.3,4.3,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+35,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.7,3.9,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+36,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,9,4.1,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+37,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.5,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+38,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,8.2,3.8,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+39,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.5,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+40,E_f,Ganoderma spp.,hardwood pellets flax calcium sulfate,7.3,3.5,Ganoderma spp.,Wood Pellets + CaSO4 + Flax, | ,Ganoderma spp. | Wood Pellets + CaSO4 + Flax
+1,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.5,3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+2,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.8,3.1,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+3,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+4,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.2,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+5,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6,2.7,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+6,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+7,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.8,3.7,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+8,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.3,3.4,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+9,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7,3.2,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+10,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.5,3.5,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+11,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.9,3.5,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+12,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,8.2,4.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+13,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.1,4,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+14,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.3,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+15,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+16,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.9,3.6,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+17,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,8.5,4.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+18,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.4,4.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+19,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.4,3.4,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+20,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.8,3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+21,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.7,3.5,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+22,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+23,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7,3.2,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+24,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7,3.2,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+25,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.6,3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+26,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.1,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+27,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.4,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+28,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.1,3.1,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+29,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6,2.7,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+30,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.8,3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+31,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.4,3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+32,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.5,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+33,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.2,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+34,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.2,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+35,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.8,3.6,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+36,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.1,3.3,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+37,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.1,2.8,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+38,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,6.6,3.1,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+39,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.4,3.4,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+40,O_f,Pleurotus ostreatus,hardwood pellets flax calcium sulfate,7.1,3.4,P. ostreatus,Wood Pellets + CaSO4 + Flax, | ,P. ostreatus | Wood Pellets + CaSO4 + Flax
+1,G,Ganoderma spp.,kenaf,5.56,1.13,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+2,G,Ganoderma spp.,kenaf,4.81,1.15,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+3,G,Ganoderma spp.,kenaf,5.37,1.18,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+4,G,Ganoderma spp.,kenaf,4.95,1.12,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+5,G,Ganoderma spp.,kenaf,5.6,1.07,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+6,G,Ganoderma spp.,kenaf,5.68,1.14,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+7,G,Ganoderma spp.,kenaf,4.68,1.04,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+8,G,Ganoderma spp.,kenaf,5.23,1.08,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+9,G,Ganoderma spp.,kenaf,5.71,1.06,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+10,G,Ganoderma spp.,kenaf,6.82,1.35,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+11,G,Ganoderma spp.,kenaf,4.65,1.11,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+12,G,Ganoderma spp.,kenaf,5.23,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+13,G,Ganoderma spp.,kenaf,5.48,1.12,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+14,G,Ganoderma spp.,kenaf,5.46,1.12,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+15,G,Ganoderma spp.,kenaf,5.78,1.08,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+16,G,Ganoderma spp.,kenaf,5.43,1.17,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+17,G,Ganoderma spp.,kenaf,3.94,1.02,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+18,G,Ganoderma spp.,kenaf,4.75,1.13,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+19,G,Ganoderma spp.,kenaf,3.9,1.08,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+20,G,Ganoderma spp.,kenaf,5.09,1.04,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+21,G,Ganoderma spp.,kenaf,5.71,1.19,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+22,G,Ganoderma spp.,kenaf,5.36,1.02,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+23,G,Ganoderma spp.,kenaf,3.86,1.06,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+24,G,Ganoderma spp.,kenaf,3.88,1.06,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+25,G,Ganoderma spp.,kenaf,4.17,1.08,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+26,G,Ganoderma spp.,kenaf,5.91,1.02,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+27,G,Ganoderma spp.,kenaf,3.48,0.91,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+28,G,Ganoderma spp.,kenaf,4.57,0.98,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+29,G,Ganoderma spp.,kenaf,4.57,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+30,G,Ganoderma spp.,kenaf,4.63,1.03,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+31,G,Ganoderma spp.,kenaf,4.95,1.02,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+32,G,Ganoderma spp.,kenaf,5.1,1.11,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+33,G,Ganoderma spp.,kenaf,5.92,1.29,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+34,G,Ganoderma spp.,kenaf,4.89,1.04,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+35,G,Ganoderma spp.,kenaf,5.33,1.21,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+36,G,Ganoderma spp.,kenaf,4.61,1.09,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+37,G,Ganoderma spp.,kenaf,6.25,1.12,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+38,G,Ganoderma spp.,kenaf,5.76,1.02,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+39,G,Ganoderma spp.,kenaf,5.37,1.06,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+40,G,Ganoderma spp.,kenaf,5.51,1.13,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+1,ERM,Ganoderma spp.,kenaf,3.1,0.9,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+2,ERM,Ganoderma spp.,kenaf,3.2,0.9,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+3,ERM,Ganoderma spp.,kenaf,3.6,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+4,ERM,Ganoderma spp.,kenaf,3.3,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+5,ERM,Ganoderma spp.,kenaf,4.4,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+6,ERM,Ganoderma spp.,kenaf,4.1,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+7,ERM,Ganoderma spp.,kenaf,3.8,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+8,ERM,Ganoderma spp.,kenaf,3.8,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+9,ERM,Ganoderma spp.,kenaf,4.8,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+10,ERM,Ganoderma spp.,kenaf,4.6,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+11,ERM,Ganoderma spp.,kenaf,4.7,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+12,ERM,Ganoderma spp.,kenaf,4.5,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+13,ERM,Ganoderma spp.,kenaf,4.3,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+14,ERM,Ganoderma spp.,kenaf,4.6,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+15,ERM,Ganoderma spp.,kenaf,4.6,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+16,ERM,Ganoderma spp.,kenaf,4.4,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+17,ERM,Ganoderma spp.,kenaf,4.9,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+18,ERM,Ganoderma spp.,kenaf,4.3,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+19,ERM,Ganoderma spp.,kenaf,4.6,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+20,ERM,Ganoderma spp.,kenaf,4.7,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+21,ERM,Ganoderma spp.,kenaf,4.4,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+22,ERM,Ganoderma spp.,kenaf,4.5,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+23,ERM,Ganoderma spp.,kenaf,4.6,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+24,ERM,Ganoderma spp.,kenaf,4.9,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+25,ERM,Ganoderma spp.,kenaf,4.5,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+26,ERM,Ganoderma spp.,kenaf,3.6,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+27,ERM,Ganoderma spp.,kenaf,3.6,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+28,ERM,Ganoderma spp.,kenaf,3.8,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+29,ERM,Ganoderma spp.,kenaf,3.9,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+30,ERM,Ganoderma spp.,kenaf,3.7,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+31,ERM,Ganoderma spp.,kenaf,4.4,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+32,ERM,Ganoderma spp.,kenaf,3.9,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+33,ERM,Ganoderma spp.,kenaf,4.9,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+34,ERM,Ganoderma spp.,kenaf,4.8,1.3,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+35,ERM,Ganoderma spp.,kenaf,3.6,0.9,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+36,ERM,Ganoderma spp.,kenaf,4.1,1.2,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+37,ERM,Ganoderma spp.,kenaf,3.9,0.9,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+38,ERM,Ganoderma spp.,kenaf,4.2,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+39,ERM,Ganoderma spp.,kenaf,3.9,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+40,ERM,Ganoderma spp.,kenaf,3.7,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+41,ERM,Ganoderma spp.,kenaf,3.8,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+42,ERM,Ganoderma spp.,kenaf,3.3,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+43,ERM,Ganoderma spp.,kenaf,3.1,0.9,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+44,ERM,Ganoderma spp.,kenaf,3.7,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+45,ERM,Ganoderma spp.,kenaf,4,1.1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+46,ERM,Ganoderma spp.,kenaf,3.5,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+47,ERM,Ganoderma spp.,kenaf,3.4,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+48,ERM,Ganoderma spp.,kenaf,3.4,1,Ganoderma spp.,Kenaf, | ,Ganoderma spp. | Kenaf
+1,GL,Ganoderma lucidum,wood lovrs,5.66,2.14,G. lucidum,Wood, | ,G. lucidum | Wood
+2,GL,Ganoderma lucidum,wood lovrs,3.72,1.81,G. lucidum,Wood, | ,G. lucidum | Wood
+3,GL,Ganoderma lucidum,wood lovrs,3.42,1.74,G. lucidum,Wood, | ,G. lucidum | Wood
+4,GL,Ganoderma lucidum,wood lovrs,3.8,2.34,G. lucidum,Wood, | ,G. lucidum | Wood
+5,GL,Ganoderma lucidum,wood lovrs,4.6,1.76,G. lucidum,Wood, | ,G. lucidum | Wood
+6,GL,Ganoderma lucidum,wood lovrs,5.74,2.42,G. lucidum,Wood, | ,G. lucidum | Wood
+7,GL,Ganoderma lucidum,wood lovrs,11.45,2.74,G. lucidum,Wood, | ,G. lucidum | Wood
+8,GL,Ganoderma lucidum,wood lovrs,4.81,2.3,G. lucidum,Wood, | ,G. lucidum | Wood
+9,GL,Ganoderma lucidum,wood lovrs,8.95,2.4,G. lucidum,Wood, | ,G. lucidum | Wood
+10,GL,Ganoderma lucidum,wood lovrs,3.35,1.92,G. lucidum,Wood, | ,G. lucidum | Wood
+11,GL,Ganoderma lucidum,wood lovrs,12.55,2.54,G. lucidum,Wood, | ,G. lucidum | Wood
+12,GL,Ganoderma lucidum,wood lovrs,4.41,2.15,G. lucidum,Wood, | ,G. lucidum | Wood
+13,GL,Ganoderma lucidum,wood lovrs,7.34,2.19,G. lucidum,Wood, | ,G. lucidum | Wood
+14,GL,Ganoderma lucidum,wood lovrs,4.42,1.89,G. lucidum,Wood, | ,G. lucidum | Wood
+15,GL,Ganoderma lucidum,wood lovrs,8.45,2.05,G. lucidum,Wood, | ,G. lucidum | Wood
+16,GL,Ganoderma lucidum,wood lovrs,5.51,2.66,G. lucidum,Wood, | ,G. lucidum | Wood
+17,GL,Ganoderma lucidum,wood lovrs,3.87,1.73,G. lucidum,Wood, | ,G. lucidum | Wood
+18,GL,Ganoderma lucidum,wood lovrs,4.59,2.45,G. lucidum,Wood, | ,G. lucidum | Wood
+19,GL,Ganoderma lucidum,wood lovrs,3.77,1.9,G. lucidum,Wood, | ,G. lucidum | Wood
+20,GL,Ganoderma lucidum,wood lovrs,3.66,1.8,G. lucidum,Wood, | ,G. lucidum | Wood
+21,GL,Ganoderma lucidum,wood lovrs,7.07,1.92,G. lucidum,Wood, | ,G. lucidum | Wood
+22,GL,Ganoderma lucidum,wood lovrs,7.55,2.09,G. lucidum,Wood, | ,G. lucidum | Wood
+23,GL,Ganoderma lucidum,wood lovrs,6.52,2.31,G. lucidum,Wood, | ,G. lucidum | Wood
+24,GL,Ganoderma lucidum,wood lovrs,4.69,2.31,G. lucidum,Wood, | ,G. lucidum | Wood
+25,GL,Ganoderma lucidum,wood lovrs,4.01,1.93,G. lucidum,Wood, | ,G. lucidum | Wood
+26,GL,Ganoderma lucidum,wood lovrs,5.23,2.02,G. lucidum,Wood, | ,G. lucidum | Wood
+27,GL,Ganoderma lucidum,wood lovrs,4.69,1.89,G. lucidum,Wood, | ,G. lucidum | Wood
+28,GL,Ganoderma lucidum,wood lovrs,7.15,2.19,G. lucidum,Wood, | ,G. lucidum | Wood
+29,GL,Ganoderma lucidum,wood lovrs,3.67,1.7,G. lucidum,Wood, | ,G. lucidum | Wood
+30,GL,Ganoderma lucidum,wood lovrs,4.22,1.95,G. lucidum,Wood, | ,G. lucidum | Wood
+31,GL,Ganoderma lucidum,wood lovrs,3.77,1.91,G. lucidum,Wood, | ,G. lucidum | Wood
+32,GL,Ganoderma lucidum,wood lovrs,4.57,1.98,G. lucidum,Wood, | ,G. lucidum | Wood
+33,GL,Ganoderma lucidum,wood lovrs,7.35,1.93,G. lucidum,Wood, | ,G. lucidum | Wood
+34,GL,Ganoderma lucidum,wood lovrs,6.71,2.35,G. lucidum,Wood, | ,G. lucidum | Wood
+35,GL,Ganoderma lucidum,wood lovrs,4.58,1.88,G. lucidum,Wood, | ,G. lucidum | Wood
+36,GL,Ganoderma lucidum,wood lovrs,4.71,2.22,G. lucidum,Wood, | ,G. lucidum | Wood
+1,P,Pleurotus ostreatus,wood lovrs,6.56,2.21,P. ostreatus,Wood, | ,P. ostreatus | Wood
+2,P,Pleurotus ostreatus,wood lovrs,5.71,2.04,P. ostreatus,Wood, | ,P. ostreatus | Wood
+3,P,Pleurotus ostreatus,wood lovrs,4.05,1.8,P. ostreatus,Wood, | ,P. ostreatus | Wood
+4,P,Pleurotus ostreatus,wood lovrs,3.49,1.85,P. ostreatus,Wood, | ,P. ostreatus | Wood
+5,P,Pleurotus ostreatus,wood lovrs,4.12,2.29,P. ostreatus,Wood, | ,P. ostreatus | Wood
+6,P,Pleurotus ostreatus,wood lovrs,3.6,1.54,P. ostreatus,Wood, | ,P. ostreatus | Wood
+7,P,Pleurotus ostreatus,wood lovrs,5.89,2.35,P. ostreatus,Wood, | ,P. ostreatus | Wood
+8,P,Pleurotus ostreatus,wood lovrs,4.35,1.83,P. ostreatus,Wood, | ,P. ostreatus | Wood
+9,P,Pleurotus ostreatus,wood lovrs,3.75,1.99,P. ostreatus,Wood, | ,P. ostreatus | Wood
+10,P,Pleurotus ostreatus,wood lovrs,4.53,2.12,P. ostreatus,Wood, | ,P. ostreatus | Wood
+11,P,Pleurotus ostreatus,wood lovrs,6.79,2.49,P. ostreatus,Wood, | ,P. ostreatus | Wood
+12,P,Pleurotus ostreatus,wood lovrs,7,2.57,P. ostreatus,Wood, | ,P. ostreatus | Wood
+13,P,Pleurotus ostreatus,wood lovrs,6.68,2.58,P. ostreatus,Wood, | ,P. ostreatus | Wood
+14,P,Pleurotus ostreatus,wood lovrs,5.69,2.24,P. ostreatus,Wood, | ,P. ostreatus | Wood
+15,P,Pleurotus ostreatus,wood lovrs,6.16,2.36,P. ostreatus,Wood, | ,P. ostreatus | Wood
+16,P,Pleurotus ostreatus,wood lovrs,6.61,2.24,P. ostreatus,Wood, | ,P. ostreatus | Wood
+17,P,Pleurotus ostreatus,wood lovrs,7.39,2.64,P. ostreatus,Wood, | ,P. ostreatus | Wood
+18,P,Pleurotus ostreatus,wood lovrs,6.04,2.22,P. ostreatus,Wood, | ,P. ostreatus | Wood
+19,P,Pleurotus ostreatus,wood lovrs,5.53,1.92,P. ostreatus,Wood, | ,P. ostreatus | Wood
+20,P,Pleurotus ostreatus,wood lovrs,6.14,2.17,P. ostreatus,Wood, | ,P. ostreatus | Wood
+21,P,Pleurotus ostreatus,wood lovrs,5.13,1.78,P. ostreatus,Wood, | ,P. ostreatus | Wood
+22,P,Pleurotus ostreatus,wood lovrs,4.14,1.49,P. ostreatus,Wood, | ,P. ostreatus | Wood
+23,P,Pleurotus ostreatus,wood lovrs,5.59,2.07,P. ostreatus,Wood, | ,P. ostreatus | Wood
+24,P,Pleurotus ostreatus,wood lovrs,5.58,2,P. ostreatus,Wood, | ,P. ostreatus | Wood
+25,P,Pleurotus ostreatus,wood lovrs,7.27,2.48,P. ostreatus,Wood, | ,P. ostreatus | Wood
+26,P,Pleurotus ostreatus,wood lovrs,5.76,2.01,P. ostreatus,Wood, | ,P. ostreatus | Wood
+27,P,Pleurotus ostreatus,wood lovrs,3.58,1.48,P. ostreatus,Wood, | ,P. ostreatus | Wood
+28,P,Pleurotus ostreatus,wood lovrs,5.69,1.93,P. ostreatus,Wood, | ,P. ostreatus | Wood
+29,P,Pleurotus ostreatus,wood lovrs,7.5,2.75,P. ostreatus,Wood, | ,P. ostreatus | Wood
+30,P,Pleurotus ostreatus,wood lovrs,5.08,1.52,P. ostreatus,Wood, | ,P. ostreatus | Wood
+31,P,Pleurotus ostreatus,wood lovrs,4.25,1.66,P. ostreatus,Wood, | ,P. ostreatus | Wood
+32,P,Pleurotus ostreatus,wood lovrs,4.55,1.84,P. ostreatus,Wood, | ,P. ostreatus | Wood
+33,P,Pleurotus ostreatus,wood lovrs,7.33,2.68,P. ostreatus,Wood, | ,P. ostreatus | Wood
+34,P,Pleurotus ostreatus,wood lovrs,6,2.1,P. ostreatus,Wood, | ,P. ostreatus | Wood
+35,P,Pleurotus ostreatus,wood lovrs,6.63,2.21,P. ostreatus,Wood, | ,P. ostreatus | Wood
+36,P,Pleurotus ostreatus,wood lovrs,5.13,1.87,P. ostreatus,Wood, | ,P. ostreatus | Wood
+37,P,Pleurotus ostreatus,wood lovrs,3.86,1.79,P. ostreatus,Wood, | ,P. ostreatus | Wood
+38,P,Pleurotus ostreatus,wood lovrs,6.24,2.36,P. ostreatus,Wood, | ,P. ostreatus | Wood
+39,P,Pleurotus ostreatus,wood lovrs,5.88,1.99,P. ostreatus,Wood, | ,P. ostreatus | Wood
+40,P,Pleurotus ostreatus,wood lovrs,6.51,2.31,P. ostreatus,Wood, | ,P. ostreatus | Wood
