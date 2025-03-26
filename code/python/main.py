@@ -3,6 +3,7 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 import os
+import random 
 import pandas as pd
 import statistics
 
@@ -74,12 +75,16 @@ def list_for_boxplot(dst_json, fil):
 
  
     plt.figure(figsize=(11, 5))
+
+    
+    
+
     box = plt.boxplot(drybywets, vert=False, patch_artist=True, medianprops=dict(color='black', linewidth=2), widths=0.95)
 
     # Define different colors for each box
-    gano_luc = [0.68, 0.85, 0.9]
-    gano_spp = [0.87, 0.63, 0.87]
-    pleu_ost = [1.0, 0.5, 0.0]
+    gano_luc = [0.68, 0.85, 0.9, 0.5]
+    gano_spp = [0.87, 0.63, 0.87, 0.5]
+    pleu_ost = [1.0, 0.5, 0.0, 0.5]
     colors_face = [gano_spp, pleu_ost, gano_luc, pleu_ost, gano_spp, gano_luc, pleu_ost, gano_spp, gano_luc]
 
 
@@ -108,6 +113,10 @@ def list_for_boxplot(dst_json, fil):
     for cap, color in zip(box['caps'], colors_whisker):
         cap.set_color(color)
         cap.set_linewidth(2)
+    
+
+
+
 
     plt.xlabel("Dry Matter Ratio (Dry / Wet Weight)  " + "\n" + "majority of wet weight lost during baking <--> majority of wet weight remains after baking")
     #plt.ylabel("Strain, Substrate")
@@ -115,10 +124,53 @@ def list_for_boxplot(dst_json, fil):
     plt.subplots_adjust(left=0.35)
     plt.xlim(0, 1)  # Limits from 0 to 1
     plt.grid(axis='x', linestyle='--', color='gray', linewidth=0.7)
+
+    add_scatter(dst_json)
     
     plot_dst = os.path.join("baking", fil + ".png")
     plt.savefig(plot_dst, dpi=300, bbox_inches="tight")  # Save as PNG
     plt.show()
+    
+
+def add_scatter(dst_json):
+    """
+    add scatter 
+    """
+
+
+    for key in dst_json:
+        
+        print("key = ") 
+        print(key)
+
+        drybywets = []
+        names = []
+
+        for i in range(len(dst_json[key])):
+
+            name = str(dst_json[key][i]["name"])
+            print(type(name))
+
+            print("name found = " + name)
+
+            xx = dst_json[key][i]["dry by wet"]
+            
+            
+            yy = []
+            for x in xx: 
+
+                fac = 0.7
+
+                if x > np.median(xx): fac = (max(xx) - x)/(max(xx) - np.median(xx))*fac 
+                elif x < np.median(xx): fac = (x - min(xx))/(np.median(xx) - min(xx))*fac 
+
+
+                ran = fac*random.random()
+                yy.append(i+1-fac/2+ran)
+
+            plt.scatter(xx,yy, color=[0.6, 0.6, 0.6], edgecolors = [0.3, 0.3, 0.3], linewidths=.2, s=12)
+
+    
     
 
 
